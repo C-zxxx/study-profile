@@ -1,9 +1,0 @@
-安装说明：
-
-1。运行setup，安装程序。选择“Full product”选项。当询问security key的时候，选择 NO。
-   当你看见“ License Wizard”对话框时候，选择“close”。
-2。运行keygen，生成license.dat, 把它拷贝到 c:\flexlm 目录。
-3. 设置环境变量: LM_LICENSE_FILE = c:\flexlm\license.dat
-   （选择我的电脑按右键，选“属性”，再选“高级”，可以看到环境变量按钮）
-4. 运行ModelSim，OK。
-
